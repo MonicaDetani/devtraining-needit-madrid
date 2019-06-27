@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="tester" max_length="40" name="x_58872_needit_tester" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element default="T" label="should you do this" max_length="40" name="u_should_you_do_this" type="boolean"/>
+    </element>
+</database>
